@@ -11,7 +11,7 @@ Organized professional with experience in work environments where commitment and
 
 | Skill                                         | Associated Project or Tool |
 |-----------------------------------------------|----------------------------|
-| Internal Audit                                | <a hRref="https://google.com">Internal Cybersecurity Audit</a>|
+| Internal Audit                                | <a href="https://github.com/My-Aleva/Internal-Cybersecurity-Audit/tree/main">Internal Cybersecurity Audit</a>|
 | Data Analytics                                | RStudio|
 
 ## Certifications
@@ -25,4 +25,4 @@ Organized professional with experience in work environments where commitment and
 </div>
 
 ## Projects
-- Internal Cybersecurity Audit
+- <a href="https://github.com/My-Aleva/Internal-Cybersecurity-Audit/tree/main">Internal Cybersecurity Audit</a>
