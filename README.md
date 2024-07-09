@@ -1,5 +1,5 @@
 # Hello, I'm Alli
-<a href="linkedin.com/in/allison-ceballos-alvarez/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/allison-ceballos-alvarez/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am curious and passionate about continuous learning, which drives me to keep up to date with the latest trends and advances in my field. My background includes experience in microbiological quality laboratories, research stays and participation in scientific publications.
